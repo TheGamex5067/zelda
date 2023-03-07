@@ -1,0 +1,36 @@
+
+.page {
+    background-image: url(back.jpg);
+     background-repeat: no-repeat; 
+     background-attachment: fixed; background-size: cover;
+}
+p {
+    margin: #105210;
+}
+
+h1{
+    padding: 10px; 
+    background-color: #00791e;
+    border: solid gold;
+}
+p{
+    color:#a79b00;
+}
+body {
+    background-color: #006A00;
+       }
+body {
+        background-image: url(back.jpg);
+         background-repeat: no-repeat; 
+         background-attachment: fixed; background-size: cover;
+    }
+    img {
+        padding: 50px 50px 50px 50px;
+        border: solid 5px black Width= 100px;
+    }
+    div {
+        background-color: rgb(255, 208, 0);
+        height: 160px;
+        width: 1500px;
+        border: solid green;
+    }
